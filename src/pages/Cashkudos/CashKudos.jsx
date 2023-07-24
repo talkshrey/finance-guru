@@ -267,7 +267,7 @@ const CashKudos = () => {
         {/* <Coupons setPoints={setPoints} points={points} /> */}
         <Coupons getPoints={getPoints} />
 
-    </Box >;
+    </Box >
 }
 
 export default CashKudos;
