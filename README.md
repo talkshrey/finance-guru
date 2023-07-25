@@ -22,4 +22,5 @@ id4-->id7[Profile];
 ```
 
 ## Technical stacks used
-![image](https://github.com/talkshrey/finance-guru/assets/74039736/4f3db427-12f4-428f-b997-73cfb792873d)
+![image](https://github.com/talkshrey/finance-guru/assets/74039736/3d2ad405-de76-4679-8622-8b9a32741bae)
+
